@@ -1,0 +1,14 @@
+.venv/
+.cache/
+.phoenix/
+__pycache__/
+*.pyc
+.env
+artifacts/*
+!artifacts/.gitkeep
+data/ajustes.jsonl
+data/prueba-upload.md
+trazas/*.log
+trazas/carga.json
+trazas/infra.json
+trazas/phoenix_resumen.json
